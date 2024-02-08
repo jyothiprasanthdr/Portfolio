@@ -577,7 +577,7 @@ header {
 
 @keyframes blink-shadow {
   0% {
-    box-shadow: 1px #6b21a8; /* Initial shadow */
+    box-shadow: 1px 1px #6b21a8; /* Initial shadow */
   }
   100% {
     box-shadow: none; /* No shadow */
