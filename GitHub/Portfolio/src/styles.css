@@ -281,7 +281,8 @@ header {
 }
 
 .skill-icon:hover {
-  color: #c710e7;
+  /* color: #c710e7; */
+  color: rgba(116, 20, 201, 0.778);
 }
 
 .skill-icon {
@@ -577,7 +578,8 @@ header {
 
 @keyframes blink-shadow {
   0% {
-    box-shadow: 1px 1px #6b21a8; /* Initial shadow */
+    box-shadow: -2px 2px #6b21a8, -2px -2px #6b21a8, 2px -2px #6b21a8,
+      -2px 2px #6b21a8; /* Initial shadow */
   }
   100% {
     box-shadow: none; /* No shadow */
