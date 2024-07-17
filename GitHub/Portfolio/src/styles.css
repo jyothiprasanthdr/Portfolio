@@ -375,7 +375,7 @@ header {
   }
   .certification-lists {
     display: grid;
-    grid-template-columns: repeat(3, 35rem);
+    grid-template-columns: repeat(4, 35rem);
     grid-template-rows: repeat(2, 30rem);
     justify-content: center;
     align-items: center;
