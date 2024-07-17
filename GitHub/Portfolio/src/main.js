@@ -1,3 +1,5 @@
+import coreui from "@coreui/coreui";
+
 document.addEventListener("DOMContentLoaded", function (event) {
   event.preventDefault();
 
