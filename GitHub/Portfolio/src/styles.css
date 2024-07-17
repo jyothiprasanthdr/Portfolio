@@ -376,10 +376,10 @@ header {
   .certification-lists {
     display: grid;
     grid-template-columns: repeat(4, 35rem);
-    grid-template-rows: repeat(2, 30rem);
+    grid-template-rows: repeat(3, 30rem);
     justify-content: center;
     align-items: center;
-    column-gap: 1rem;
+    column-gap: 0.5rem;
   }
   .certifications p {
     padding: 2rem;
