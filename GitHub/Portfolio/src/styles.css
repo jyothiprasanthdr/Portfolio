@@ -379,7 +379,7 @@ header {
     grid-template-rows: repeat(3, 30rem);
     justify-content: center;
     align-items: center;
-    column-gap: 0.5rem;
+    column-gap: 0.2rem;
   }
   .certifications p {
     padding: 2rem;
